@@ -1,0 +1,36 @@
+_repo: The-First-Canadians-in-FranceThe-Chronicle-of-a-Military-Hospital-in-the-War-Zone_46300
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fulleylove, Christopher
+    gutenberg_agent_id: '43708'
+    url: http://www.gutenberg.org/2009/agents/43708
+covers:
+- cover_type: archival
+  image_path: 46300-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Bell, F. McKelvey (Frederick McKelvey)
+    alias: Bell, Frederick McKelvey
+    birthdate: 1878
+    deathdate: 1931
+    gutenberg_agent_id: '43707'
+    url: http://www.gutenberg.org/2009/agents/43707
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2014-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Hospitals -- France'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, Canadian'
+title: 'The First Canadians in France
+
+  The Chronicle of a Military Hospital in the War Zone'
+url: http://www.gutenberg.org/ebooks/46300
